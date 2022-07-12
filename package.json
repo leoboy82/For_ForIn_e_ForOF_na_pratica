@@ -1,0 +1,24 @@
+{
+  "name": "for--forin-e-forof-na-pratica",
+  "version": "1.0.0",
+  "description": "Vamos entender como funciona essas três formas de utilizar o laço de repetição  vamos utilizar tambem a API da Star Wars",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoboy82/For_ForIn_e_ForOF_na_pratica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoboy82/For_ForIn_e_ForOF_na_pratica/issues"
+  },
+  "homepage": "https://github.com/leoboy82/For_ForIn_e_ForOF_na_pratica#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.8"
+  }
+}
